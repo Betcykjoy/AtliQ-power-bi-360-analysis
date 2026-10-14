@@ -43,22 +43,38 @@ Interactive filtering allows stakeholders to move from overall KPIs to detailed 
 **Key Business Insights**
 
 Overall Business Performance
+
 Net Sales: GHS 3,736 million.
+
 Gross Margin: 38.08%.
+
 Regional Performance
+
 APAC: Generated the highest sales at GHS 1,924 million but faced profitability challenges, with a Net Profit Percentage (NP%) of -14.62%.
+
 North America: Recorded a strong Gross Margin Percentage (GM%) of 44.97%, indicating comparatively healthy margins.
+
 Customer Analysis
+
 Amazon: Emerged as a leading revenue contributor, presenting opportunities to improve profitability through better cost management.
+
 AtliQ Exclusive: Delivered strong profitability, achieving a Gross Margin of 47.22%.
+
 Product Performance
+
 Top Performers: Notebooks and Desktops contributed significantly to business performance.
+
 Improvement Opportunities: Accessories and Peripherals require further cost and profitability analysis to identify opportunities for margin improvement.
 
 **Business Impact and Value**
+
 Better Decision-Making: Consolidates essential business metrics into a unified dashboard for faster, data-driven decisions.
 Improved Profitability Analysis: Highlights differences in profitability across regions, customers, and product categories.
+
 Operational Optimization: Identifies opportunities to improve forecasting, inventory management, and cost efficiency.
+
 Customer-Focused Growth: Supports targeted strategies for high-value customers and underperforming segments.
+
 Performance Monitoring: Enables stakeholders to compare actual results against targets and identify areas requiring attention.
+
 Strategic Alignment: Provides executives with a consolidated view of business performance to support planning and sustainable growth.
